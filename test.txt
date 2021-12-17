@@ -1,0 +1,88 @@
+To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take Arms against a Sea of troubles,
+And by opposing end them: to die, to sleep;
+No more; and by a sleep, to say we end
+The heart-ache, and the thousand natural shocks
+That Flesh is heir to? 'Tis a consummation
+Devoutly to be wished. To die, to sleep,
+To sleep, perchance to Dream; aye, there's the rub,
+For in that sleep of death, what dreams may come,
+When we have shuffled off this mortal coil,
+Must give us pause. There's the respect
+That makes Calamity of so long life:
+For who would bear the Whips and Scorns of time,
+The Oppressor's wrong, the proud man's Contumely,
+The pangs of dispised Love, the Law’s delay,
+The insolence of Office, and the spurns
+That patient merit of th'unworthy takes,
+When he himself might his Quietus make
+With a bare Bodkin? Who would Fardels bear, [F: these Fardels]
+To grunt and sweat under a weary life,
+But that the dread of something after death,
+The undiscovered country, from whose bourn
+No traveller returns, puzzles the will,
+And makes us rather bear those ills we have,
+Than fly to others that we know not of?
+Thus conscience does make cowards of us all,
+And thus the native hue of Resolution
+Is sicklied o'er, with the pale cast of Thought,
+And enterprises of great pitch and moment, [F: pith]
+With this regard their Currents turn awry, [F: away]
+And lose the name of Action. Soft you now,
+The fair Ophelia? Nymph, in thy Orisons
+Be all my sins remember'd. 
+
+Found at: https://en.wikipedia.org/wiki/To_be,_or_not_to_be
+
+-185,+202,-21,-48,-185
+-196,+75,-7,-255,215
+-101,+19,-139,181,+208
+-105,34,126,76,-15
+-73,159,120,-143,-165
++217,+60,124,-50,224
+-2,+112,-6,53,-101
+151,-195,-47,212,+181
+97,109,106,-224,-130
++117,109,-36,-83,6
++249,-134,-208,+245,-224
+-234,118,-247,-54,-126
+-95,120,-143,+128,53
+-128,+216,+211,-99,146
+-93,-184,+197,-61,163
+130,-100,71,+221,+202
+144,+118,127,+195,-209
+-56,-251,+212,+80,129
+-102,-173,207,+11,-115
+-231,-125,-251,-99,+145
++57,198,-140,15,-45
++123,-185,-104,-236,-247
+98,+174,-217,-218,+178
++113,-212,-135,-102,-19
+244,+4,62,-154,+32
+-165,-0,+181,+245,-143
+211,+53,+194,-79,-246
+-190,-99,209,+255,132
+-3,+177,-185,+6,+87
+-227,+217,+64,85,14
++93,134,+212,-218,99
+-190,-234,-32,-28,-43
+-69,-250,+216,-46,194
+-231,34,+27,+37,207
+-204,-183,-193,-245,201
++210,-91,233,-124,-42
+-81,35,-108,-227,-79
++214,-171,+23,-164,30
+185,-215,+131,-238,+104
++13,-182,-53,-190,-105
+-228,242,-255,+75,+243
++100,-42,-237,-50,-36
+-219,177,-23,-188,-143
+188,-208,+197,27,223
+-88,243,-104,-252,-81
+-33,-92,+113,-5,+7
+-52,+200,+132,-232,+245
+173,86,+57,-253,-26
+-17,-170,+0,41,27
+-184,-164,-41,114,-55
